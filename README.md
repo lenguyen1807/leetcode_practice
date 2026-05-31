@@ -135,7 +135,7 @@ Goal: setup and calibration.
 
 Goal: remember the basic loop templates.
 
-- [ ] Two Sum
+- [x] Two Sum
 - [x] Longest Substring Without Repeating Characters
 - [ ] Binary Search
 - [ ] Write the invariant for each from memory.
